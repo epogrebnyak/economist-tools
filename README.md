@@ -19,7 +19,7 @@ I alsо maintain several learning resources:
 
 # Replication
 
-A placeholder for tools and best practice for replication and reproducibility in economics and social sciences. I worked on some improvements for [manubot](https://manubot.org) and [handout](https://github.com/danijar/handout) and got impressions to share.
+I worked on some improvements for [manubot](https://manubot.org) and [handout](https://github.com/danijar/handout) and got impressions to share about replication and reproducibility in economics.
 
 # My other pages
 
