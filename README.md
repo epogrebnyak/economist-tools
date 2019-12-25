@@ -5,9 +5,9 @@ transform several useful country and corporate datasets.
 
 - [weo](https://github.com/epogrebnyak/weo-reader) - IMF World Economic Outlook python client
 - [boo](https://github.com/ru-corporate/boo) - Rosstat annual corporate reports 
+- [comtrade](https://github.com/ru-corporate/comtrade) - UN Comtrade utilities
 
-This list is to be extended - I will add `comtrade`, `kep` and maybe others. 
-Please also [send in](https://epogrebnyak.github.io/#about) your own similar projects.
+Please [send in](https://epogrebnyak.github.io/#about) your own similar projects for listing.
 
 # Learning
 
