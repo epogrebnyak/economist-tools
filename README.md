@@ -23,5 +23,5 @@ I worked on some improvements for [manubot](https://manubot.org) and [handout](h
 
 # My other pages
 
-- [blog](https://epogrebnyak.github.io)
+- [Blog](https://epogrebnyak.github.io)
 - [CV](https://epogrebnyak.github.io/cv/)
