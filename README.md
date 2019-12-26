@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/dataset-3-blue)
-![](https://img.shields.io/badge/learning-3-orange)
+![](https://img.shields.io/badge/learning-4-orange)
 ![](https://img.shields.io/badge/replication-2-brightgreen)
 
 
@@ -22,6 +22,7 @@ I alsо maintain several learning resources:
 - [trics.me](https://trics.me) - an econometrics and statistics navigator
 - [superhero](https://github.com/epogrebnyak/superhero) - business analyst-to-developper learning curriculum (in Russian)
 - [haskell-intro](http://tinyurl.com/haskell-intro) - a starter guide into functional programming with Haskell
+- [learn/python](https://github.com/epogrebnyak/learn/blob/master/python.md) - top resources I recommend for quick intro to python
 
 # Replication and reproducibility
 
