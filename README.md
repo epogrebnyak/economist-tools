@@ -22,7 +22,7 @@ I alsо maintain several learning resources:
 - [trics.me](https://trics.me) - an econometrics and statistics navigator
 - [superhero](https://github.com/epogrebnyak/superhero) - business analyst-to-developper learning curriculum (in Russian)
 - [haskell-intro](http://tinyurl.com/haskell-intro) - a starter guide into functional programming with Haskell
-- [learn/python](https://github.com/epogrebnyak/learn/blob/master/python.md) - top resources I recommend for quick intro to python
+- [learn/python](https://github.com/epogrebnyak/learn/blob/master/python.md) - top 3 resources I recommend as quick intro to python
 
 # Replication and reproducibility
 
