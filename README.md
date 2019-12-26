@@ -24,7 +24,7 @@ I alsо maintain several learning resources:
 
 # Replication and reproducibility
 
-Economic analysis is not terribly advanced in replication and reproducibility. It is taught in fragments and there are internal incentive to keep your work to yours, but things are changing.
+Economic analysis is not terribly advanced in replication and reproducibility. Required skills taught in fragments and there are powerful incentives to keep your work to yourself, but hope things are changing (open access publishing, literate programming, data APIs, etc.).
 
 I contributed some code to the following open source tools:
 
