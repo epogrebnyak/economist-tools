@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/dataset-3-blue)
-![](https://img.shields.io/badge/reference-3-orange)
+![](https://img.shields.io/badge/learning-3-orange)
 ![](https://img.shields.io/badge/replication-2-brightgreen)
 
 # Dataset access and management
