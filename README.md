@@ -15,6 +15,10 @@ You can migrate parts of your data analysis from Excel to R/pandas using these p
 
 Please [send in](https://epogrebnyak.github.io/#about) your own similar projects for listing.
 
+<!-- 
+https://github.com/WLM1ke/poptimizer
+-->
+
 # Reference and learning
 
 I maintain a website with open-source textbooks and guides in  
