@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/replication-2-brightgreen)
 
 
-# Dataset access and management
+# Dataset access
 
 These tools I developed allow access to useful country and corporate datasets. 
 
@@ -17,12 +17,14 @@ Please [send in](https://epogrebnyak.github.io/#about) your own similar projects
 
 # Reference and learning
 
-I alsо maintain several learning resources:
+I maintain a website with open-source textbooks and guides in  
+econometrics and statistics, [Econometrics Navigator](https://trics.me).
 
-- [trics.me](https://trics.me) - an econometrics and statistics navigator
-- [superhero](https://github.com/epogrebnyak/superhero) - business analyst-to-developper learning curriculum (in Russian)
-- [haskell-intro](http://tinyurl.com/haskell-intro) - a starter guide into functional programming with Haskell
+# Programming and IT skills
+
 - [learn/python](https://github.com/epogrebnyak/learn/blob/master/python.md) - top 3 resources I recommend as quick intro to python
+- [haskell-intro](http://tinyurl.com/haskell-intro) - a starter guide into functional programming with Haskell
+- [superhero](https://github.com/epogrebnyak/superhero) - business analyst-to-developper learning curriculum (in Russian)
 
 # Replication and reproducibility
 
