@@ -33,6 +33,12 @@ I contributed some code to the following open source tools:
 - [manubot](https://manubot.org) - changes to citation management submodule
 - [handout](https://github.com/danijar/handout) - minor fixes
 
+# Mantras and opinion
+
+- [Analysis is a DAG](https://drivendata.github.io/cookiecutter-data-science/#analysis-is-a-dag) - we should be aiming to make our data transformation straight, 
+ so that there are no manual work parts or undocumented operations.
+- [No silver bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - whatever 
+  you try does not solve 100% of your problems.
 
 # My other pages
 
