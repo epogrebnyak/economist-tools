@@ -5,14 +5,25 @@
 
 # Dataset access
 
-These tools I developed allow access to useful country and corporate datasets. 
+You can migrate your data analysis from Excel to R/pandas or use 
+R/pandas to prepare sunsets of data and work back on it in Excel.
+
+I developed several tools that allow access to useful country and corporate datasets. 
 
 - [weo](https://github.com/epogrebnyak/weo-reader) - IMF World Economic Outlook python client (`pip install weo`)
 - [boo](https://github.com/ru-corporate/boo) - Rosstat annual corporate reports (`pip install boo`)
 - [comtrade](https://github.com/ru-corporate/comtrade) - utilities to query UN Comtrade database for goods export
 
-You can migrate parts of your data analysis from Excel to R/pandas using these packages and scripts or make subsets of data and work on them in Excel.
+`weo` and `comtrade` wrap already good datasets, and `comtrade` API is nearly perfect. `boo` makes use of raw data, which is otherwise unaccessible.
 
+# On the radar 
+
+Here are some code projects by and for economists (to be annotatted):
+
+- https://www.hse.ru/edu/courses/302789733
+- https://github.com/WLM1ke/poptimizer
+- https://github.com/lnsongxf?tab=stars
+  
 Please [send in](https://epogrebnyak.github.io/#about) your own similar projects for listing.
 
 <!-- 
